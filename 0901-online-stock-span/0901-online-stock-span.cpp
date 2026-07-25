@@ -5,7 +5,6 @@ public:
 
     StockSpanner() {
         index = -1;
-       // st.clear();
     }
     
     int next(int price) {
