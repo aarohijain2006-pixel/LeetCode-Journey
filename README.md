@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2104-sum-of-subarray-ranges](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
