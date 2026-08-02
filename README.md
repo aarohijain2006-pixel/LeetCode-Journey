@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## String
 |  |
 | ------- |
@@ -101,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Prefix Sum
 |  |
 | ------- |
