@@ -3,7 +3,6 @@ public:
     string frequencySort(string s) {
          unordered_map<char, int> freq;
 
-        // Count frequency
         for(char ch : s)
             freq[ch]++;
 
@@ -14,7 +13,6 @@ public:
             char maxChar;
             int maxFreq = 0;
 
-            // Find character with maximum frequency
             for(auto it : freq) {
                 if(it.second > maxFreq) {
                     maxFreq = it.second;
@@ -22,12 +20,10 @@ public:
                 }
             }
 
-            // Add it maxFreq times
             while(maxFreq--) {
                 ans.push_back(maxChar);
             }
 
-            // Remove it from map
             freq.erase(maxChar);
         }
 
