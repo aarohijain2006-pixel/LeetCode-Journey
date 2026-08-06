@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Matrix
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0056-merge-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -134,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0231-power-of-two) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
