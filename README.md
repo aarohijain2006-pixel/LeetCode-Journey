@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
