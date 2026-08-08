@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
