@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0735-asteroid-collision) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -163,4 +165,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0086-partition-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
