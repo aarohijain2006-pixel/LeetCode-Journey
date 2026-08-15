@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0056-merge-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
