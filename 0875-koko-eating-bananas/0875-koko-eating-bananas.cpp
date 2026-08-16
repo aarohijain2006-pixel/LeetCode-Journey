@@ -1,30 +1,30 @@
 class Solution {
 public:
-    int hourTaken(vector<int>& piles, int hours){
-        int total = 0; 
-        for(int i = 0; i<piles.size(); i++){
-            total += ceil((double)piles[i]/(double)hours);
-        }
-        return total;
-    }
+   int totalHours(vector<int>& piles, int mid){
+    int total = 0;
+      for(int i=0; i<piles.size(); i++){
+         total += ceil((double)piles[i]/(double)mid);
+      }
+      return total;
+   }
 
     int minEatingSpeed(vector<int>& piles, int h) {
         sort(piles.begin(), piles.end());
         int n = piles.size();
-        int s = 1;
-        int e = piles[n-1];
-        int totalHours = 0;
-
-        while(s<e){
-            int mid = s + (e-s)/2;
-            totalHours = hourTaken(piles, mid);
-            if(totalHours > h){
-                s = mid + 1;
+        int i = 1;
+        int j = piles[n-1];
+        int hoursTaken = 0;
+        while(i<j){
+            int mid = (i + j)/2;
+            hoursTaken = totalHours(piles, mid);
+        
+            if(hoursTaken > h){
+                i = mid + 1;
             }
             else{
-                e = mid;
+                j = mid;
             }
         }
-        return s;
+        return i;
     }
 };
