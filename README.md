@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
