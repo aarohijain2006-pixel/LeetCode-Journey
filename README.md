@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -201,4 +205,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
