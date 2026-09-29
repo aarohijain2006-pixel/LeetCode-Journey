@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
