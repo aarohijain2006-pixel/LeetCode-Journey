@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Bucket Sort
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0086-partition-list) |
+| [0203-remove-linked-list-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 ## Enumeration
 |  |
 | ------- |
