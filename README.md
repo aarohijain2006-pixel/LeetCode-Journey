@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0794-valid-tic-tac-toe-state](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0794-valid-tic-tac-toe-state) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/2104-sum-of-subarray-ranges) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
