@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0075-sort-colors) |
@@ -244,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
