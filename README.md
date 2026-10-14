@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0013-roman-to-integer) |
+| [0131-palindrome-partitioning](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
