@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -298,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
