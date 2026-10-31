@@ -11,23 +11,25 @@
  */
 class Solution {
 public:
-    bool findPath(TreeNode* root, int targetSum, int currSum){
-        if(root == NULL){
-            return false;
+    void checkSum(TreeNode* root, int targetSum, int sum, bool& ans){
+        if(root == NULL) return;
+        sum += root->val;
+
+        if(root->left == NULL && root->right == NULL){
+            if(sum == targetSum){
+                ans = true;
+                return;
+            }
         }
-        currSum += root->val;
-        if(currSum == targetSum && root->left == NULL && root->right == NULL){
-            return true;
-        }
-        if(findPath(root->left, targetSum, currSum) || findPath(root->right, targetSum, currSum)){
-            return true;
-        }
-        currSum -= root->val;
-        return false;
+        checkSum(root->left, targetSum, sum, ans);
+        checkSum(root->right, targetSum, sum, ans);
+        return ;
     }
 
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(root == NULL) return false;
-        return findPath(root, targetSum, 0);
+        int sum = 0;
+        bool ans = false;
+        checkSum(root, targetSum, 0, ans);
+        return ans;
     }
 };
