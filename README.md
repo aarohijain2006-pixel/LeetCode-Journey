@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Math
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Counting
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
