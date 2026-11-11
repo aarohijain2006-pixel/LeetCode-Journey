@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
