@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0794-valid-tic-tac-toe-state](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0794-valid-tic-tac-toe-state) |
 | [0875-koko-eating-bananas](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
+| [0706-design-hashmap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0706-design-hashmap) |
 ## Enumeration
 |  |
 | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0706-design-hashmap) |
 ## Binary Lifting
 |  |
 | ------- |
