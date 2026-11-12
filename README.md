@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Math
@@ -208,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -253,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -400,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarohijain2006-pixel/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
